@@ -43,15 +43,24 @@ To empower organizations through innovative technology solutions that drive effi
 ## Our Technology Stack
 
 ### Hardware
-- HPE
-- Synology
+- [HPE](https://www.gen.uk/index.php?page=Support&option=HPE)
+- [Synology](https://www.gen.uk/index.php?page=Support&option=Synology)
 - Supermicro
 - nVidia/AMD
+- [Draytek](https://www.gen.uk/index.php?page=Support&option=Draytek)
 
 ### Virtualisation
-- Proxmox
+- [Proxmox](https://www.gen.uk/index.php?page=Support&option=Proxmox)
 - VMWare
 - Hyper-V
+
+### Technical Support & Outsourcing
+- [Linux](https://www.gen.uk/index.php?page=Support&option=Linux)
+- [Microsoft](https://www.gen.uk/index.php?page=Support&option=Microsoft)
+
+### Telephony & Voice
+- [Asterisk](https://www.gen.uk/index.php?page=Support&option=Asterisk)
+- [FreePBX](https://www.gen.uk/index.php?page=Support&option=Freepbx)
 
 ### Development
 - PHP
